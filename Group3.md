@@ -18,5 +18,14 @@
 ![fin2](fin2.jpeg "PERT圖")
 
 ## 功能性需求
+1.提供天氣資訊
+2.給予穿搭意見
+3.按照溫度推薦不同衣服
+4.
 
 ## 非功能性需求
+1.反應時間(response time) ：網頁載入時間快。
+2.使用性(usability)：資訊都來自政府的公開資料平台，準確性高。
+3.可靠度(reliability)：系統可24小時上線。
+4.效能(performance)：採用多執行緒，能承載100人同時發送請求。
+5.維護性(maintainability)：主要採用Android Studio進行開發。
