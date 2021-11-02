@@ -66,4 +66,7 @@
 ![sys1](syst1.png "使用案例圖")
 
 ## DFD圖
-![sys1](syst2.png "DFD")
+![sys2](syst2.png "DFD")
+
+## DFD 0 圖
+![sys3](syst3.png "DFD0")
