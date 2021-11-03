@@ -70,3 +70,13 @@
 
 ## DFD 0 圖
 ![sys3](syst3.png "DFD0")
+
+## FDD圖
+![sys4](FDD.png "FDD")
+
+## 類別圖
+![sys5](類別圖.png "類別圖")
+
+## 循序圖
+![sys6](循序圖.jpeg "循序圖")
+
