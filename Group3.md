@@ -80,3 +80,8 @@
 ## 循序圖
 ![sys6](循序圖.jpeg "循序圖")
 ![sys7](循序圖1.jpeg "循序圖")
+
+## 螢幕設計圖
+![sys8](system1.png "設計圖1")
+![sys9](system2.png "設計圖2")
+![sys10](system3.png "設計圖3")
