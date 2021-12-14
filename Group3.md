@@ -85,5 +85,5 @@
 ![sys9](system2.png "設計圖2")
 ![sys10](system3.png "設計圖3")
 
-## 螢幕設計圖
+## ERD圖
 ![sys11](ERD.png "ERD圖")
