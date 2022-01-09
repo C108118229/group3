@@ -86,14 +86,12 @@
 ## 類別圖
 ![sys5](類別圖.png "類別圖")
 
-## 活動圖
+## 活動圖與循序圖
 ![sys12](syst7.jpeg "活動圖1")
-![sys13](syst9.jpeg "活動圖2")
-![sys14](syst4.jpeg "活動3")
-
-## 循序圖
 ![sys6](syst6.jpeg "循序圖")
+![sys13](syst9.jpeg "活動圖2")
 ![sys7](syst8.jpeg "循序圖")
+![sys14](syst4.jpeg "活動3")
 ![sys15](syst5.jpeg "循序圖")
 
 ## 螢幕設計圖
