@@ -104,3 +104,6 @@
 
 ## 程式碼
 https://github.com/C108118229/group_weatherApp.git
+
+## PPT
+https://github.com/C108118229/group3/blob/main/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90.pptx
